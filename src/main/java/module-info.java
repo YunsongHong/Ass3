@@ -15,3 +15,4 @@ module invaders {
     opens invaders to javafx.fxml;
     exports invaders;
 }
+
